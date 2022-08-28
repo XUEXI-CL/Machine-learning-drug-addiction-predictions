@@ -1,0 +1,2 @@
+# Machine-learning-drug-addiction-predictions
+Firstly, we determined the risk factors of relapse of synthetic 19 drugs through single factor analysis. Then, the six models were optimized by 10-fold cross-validation , decision tree (DT), logistic regression (LR), artificial neural network (ANN), naive Bayes (NB), random forest (RF) and support vector machine (SVM), which were used to find the best hyper parameters in the training set. Finally, the performance of the model was evaluated by AUC,  accuracy, precision, recall and F1-score on the test set.
