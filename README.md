@@ -11,3 +11,5 @@ The ensemble model was written in Python scripting language (Version 3.6.5, Pyth
 
 ## The test set was used to fit the model and generate the final results. 
 <img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/images/Models%20test_ROC.png" width="600" height="600">
+
+<img src="D:\images\Confusion matrix figure.png" width="600" height="600">
