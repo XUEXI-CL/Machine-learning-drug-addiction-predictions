@@ -5,9 +5,9 @@ In this work, we evaluated and compared the performance of six machine learning 
 The ensemble model was written in Python scripting language (Version 3.6.5, Python Software Foundation, Wilmington, DE, USA, https://www.python.org). Different packages such as NumPy, pandas, scikit, and Matplotlib have been used in analyzing the data. We implemented 6 algorithms using the Scikit-learn library in the Python programming environment. 
 
 ## Data distribution
-<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/Data%20distribution.png" width="600" height="600">
+<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/images/Data%20distribution.png" width="600" height="600">
 
-<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/Confusion%20matrix%20figure.png" width="600" height="600">
+<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/images/Confusion%20matrix%20figure.png" width="600" height="600">
 
 ## The test set was used to fit the model and generate the final results. 
-<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/Models%20test_ROC.png" width="600" height="600">
+<img src="https://github.com/XUEXI-CL/Machine-learning-drug-addiction-predictions/blob/main/images/Models%20test_ROC.png" width="600" height="600">
